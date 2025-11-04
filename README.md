@@ -200,7 +200,7 @@ All without redeploying the core contract.
 
 ## 📜 License
 
-This project is fully owned by **Emerald**.  
+This project is fully owned by **[Emerald](https://www.linkedin.com/in/mdnabeelemerald/)**.  
 **Unauthorized use, modification, or redistribution is strictly prohibited** without explicit written permission from the owner.
 
 © 2025 Emerald. All rights reserved.
